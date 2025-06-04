@@ -1,9 +1,11 @@
 <h1 align="center">
 Hi, I'm Richard Ramos
-	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
+
+
+## 🧑‍💻 About Me
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
@@ -17,8 +19,7 @@ I enjoy working in teams, supporting my colleagues, and sharing what I learn thr
 - ✔ I strive to make a positive impact on the projects I participate in  
 - 🤝 I enjoy collaborating with and supporting my team at all times  
 
-# 💼 Skills
-
+## 🛠️ Skills
 
 ### 🚀 Programming Languages
 
@@ -91,8 +92,7 @@ I enjoy working in teams, supporting my colleagues, and sharing what I learn thr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-
-# 🔗 Contact
+## 🔗 Contact
 
 <a href="https://github.com/richardramosb" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -109,4 +109,5 @@ I enjoy working in teams, supporting my colleagues, and sharing what I learn thr
 <a href="https://richand05.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-
+<br>
+<br>
