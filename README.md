@@ -92,7 +92,5 @@ I enjoy working in teams, supporting my colleagues, and sharing what I learn thr
 
 # 🔗 Contact
 
-<a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/andreeramosbenites/))
 
