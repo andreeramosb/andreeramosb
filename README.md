@@ -7,7 +7,7 @@ Hi, I'm Richard Ramos
 ## 🧑‍💻 About Me
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" top="400" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
 I am a Computer and Informatics Engineer, primarily focused on backend development and always open to adapting to new technologies and areas based on project or team needs.  
@@ -15,9 +15,9 @@ I have contributed to projects in banking, telecommunications, and retail, deliv
 I enjoy working in teams, supporting my colleagues, and sharing what I learn throughout the process.
 
 * **I am committed to continuous learning and professional growth**  
-- 🌱 I seek new challenges that help me grow  
-- ✔ I strive to make a positive impact on the projects I participate in  
-- 🤝 I enjoy collaborating with and supporting my team at all times  
+- 🌱 I seek new challenges that help me grow.
+- ✔ I strive to make a positive impact on the projects I participate in.
+- 🤝 I enjoy collaborating with and supporting my team at all times.
 
 ## 🛠️ Skills
 
