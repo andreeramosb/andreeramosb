@@ -4,7 +4,9 @@ Hi, I'm Richard Ramos
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+</a>
 
 I am a Computer and Informatics Engineer, primarily focused on backend development and always open to adapting to new technologies and areas based on project or team needs.  
 I have contributed to projects in banking, telecommunications, and retail, delivering solutions aligned with business goals.  
