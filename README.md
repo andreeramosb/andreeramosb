@@ -10,7 +10,7 @@ Hi, I'm Richard Ramos
   <img align="right" top="400" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
-I am a Computer and Informatics Engineer, primarily focused on backend development and always open to adapting to new technologies and areas based on project or team needs.  
+I'm a Software Deveolper, primarily focused on backend development and always open to adapting to new technologies and areas based on project or team needs.  
 I have contributed to projects in banking, telecommunications, and retail, delivering solutions aligned with business goals.  
 I enjoy working in teams, supporting my colleagues, and sharing what I learn throughout the process.
 
